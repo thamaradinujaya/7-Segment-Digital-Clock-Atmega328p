@@ -1,0 +1,7 @@
+Components
+ATMega328P
+4 Digit Seven Segment
+2 Push Buttons
+7805 IC
+0.22 uF Capacitors-2
+1K Resistors - 2
